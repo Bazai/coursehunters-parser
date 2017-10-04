@@ -1,0 +1,42 @@
+.header {
+    min-height: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.header .header__logo {
+    display: inline-block;
+    height: 50px;
+}
+
+.header .header__side span {
+    position: relative;
+    top: 2px;
+}
+
+.header .container {
+    line-height: 50px;
+}
+
+.container {
+    margin-top: 1rem;
+}
+
+input {
+    min-width: 30em;
+    width: auto;
+    margin-top: 1rem;
+}
+
+ol {
+    list-style: decimal;
+    margin-left: 1.1em;
+    margin-top: 1rem;
+}
+
+button {
+    margin-top: 0.5rem;
+    display: block;
+}
